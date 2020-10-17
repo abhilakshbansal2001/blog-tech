@@ -1,0 +1,18 @@
+---
+title: 'Internet of Things'
+author: 'Netlifriends'
+desc: ' IoT will stump IT until clouds and big data come aboard'
+date: '2020-04-28'
+hero_image: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80'
+---
+
+
+An  **embedded system**  is a computer system—a combination of a  [computer processor](https://en.wikipedia.org/wiki/Computer_processor "Computer processor"),  [computer memory](https://en.wikipedia.org/wiki/Computer_memory "Computer memory"), and  [input/output](https://en.wikipedia.org/wiki/Input/output "Input/output")  peripheral devices—that has a dedicated function within a larger mechanical or electrical system.[[1]](https://en.wikipedia.org/wiki/Embedded_system#cite_note-Barr-glossary-1)[[2]](https://en.wikipedia.org/wiki/Embedded_system#cite_note-2)  It is  _embedded_  as part of a complete device often including electrical or electronic hardware and mechanical parts. Because an embedded system typically controls physical operations of the machine that it is embedded within, it often has  [real-time computing](https://en.wikipedia.org/wiki/Real-time_computing "Real-time computing")  constraints. Embedded systems control many devices in common use today.[[3]](https://en.wikipedia.org/wiki/Embedded_system#cite_note-:0-3)  Ninety-eight percent of all microprocessors manufactured are used in embedded systems.
+
+![enter image description here](https://www.cxotoday.com/wp-content/uploads/2019/12/IoT-image.png)
+
+Modern embedded systems are often based on  [microcontrollers](https://en.wikipedia.org/wiki/Microcontroller "Microcontroller")  (i.e. microprocessors with integrated memory and peripheral interfaces), but ordinary microprocessors (using external chips for memory and peripheral interface circuits) are also common, especially in more complex systems. In either case, the processor(s) used may be types ranging from general purpose to those specialized in a certain class of computations, or even custom designed for the application at hand. A common standard class of dedicated processors is the  [digital signal processor](https://en.wikipedia.org/wiki/Digital_signal_processor "Digital signal processor")  (DSP).
+
+Since the embedded system is dedicated to specific tasks,  [design engineers](https://en.wikipedia.org/wiki/Design_engineer "Design engineer")  can optimize it to reduce the size and cost of the product and increase the reliability and performance. Some embedded systems are mass-produced, benefiting from  [economies of scale](https://en.wikipedia.org/wiki/Economies_of_scale "Economies of scale").
+
+Embedded systems range from portable devices such as  [digital watches](https://en.wikipedia.org/wiki/Digital_watch "Digital watch")  and  [MP3 players](https://en.wikipedia.org/wiki/MP3_player "MP3 player"), to large stationary installations like  [traffic light controllers](https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination "Traffic light control and coordination"),  [programmable logic controllers](https://en.wikipedia.org/wiki/Programmable_logic_controller "Programmable logic controller"), and large complex systems like  [hybrid vehicles](https://en.wikipedia.org/wiki/Hybrid_vehicles "Hybrid vehicles"),  [medical imaging](https://en.wikipedia.org/wiki/Medical_imaging "Medical imaging")  systems, and  [avionics](https://en.wikipedia.org/wiki/Avionics "Avionics"). Complexity varies from low, with a single microcontroller chip, to very high with multiple units,  [peripherals](https://en.wikipedia.org/wiki/Peripheral "Peripheral")  and networks mounted inside a large  [equipment rack](https://en.wikipedia.org/wiki/Equipment_rack "Equipment rack").

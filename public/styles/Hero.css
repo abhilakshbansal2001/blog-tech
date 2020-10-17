@@ -1,0 +1,36 @@
+.hero-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://images.unsplash.com/photo-1495127780552-a14eb19a381f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+    min-height: 100vh;
+    max-width: 100%;
+    flex-direction: column;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-div::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background: rgb(246,245,245);
+    background: linear-gradient(90deg, rgba(246,245,245,1) 0%, rgba(238,238,238,1) 65%, rgba(231,231,222,1) 100%);
+}
+
+.hero-div *{
+    z-index: 10;
+}
+
+.hero-h1{
+    font-size: 2.5rem;
+    font-weight: 900;
+    animation: key 1s alternate infinite;
+    background-position: center;
+}
+@keyframes key{
+
+}
