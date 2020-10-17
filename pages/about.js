@@ -14,7 +14,7 @@ const About = ({ title, description, ...props }) => {
        
         <p>
           See my portfolio
-          <a href=https://abhilakshbansal2001.github.io/abhilakshbansal/"">Abhilaksh Bansal</a>
+          <a href="https://abhilakshbansal2001.github.io/abhilakshbansal/">Abhilaksh Bansal</a>
         </p>
       </Layout>
     </>
